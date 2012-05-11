@@ -1,3 +1,9 @@
+# Party's Moved!
+
+Looking for the latest [BrowserID/Persona](http://browserid.org/) sample code?
+Checkout the [123done.org](http://123done.org/) code at in the 
+[mozilla/123done](http://github.com/mozilla/123done) repo.
+
 ## MyFavoriteBooze.org - A BrowserID example site
 
 This is a simple site that demonstrates how
